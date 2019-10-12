@@ -392,12 +392,6 @@ touch-action: none;
   min-width: 90%;
   max-width: 90%;
 }
-.title-image
-{
-  position: relative;
-  bottom: 70px;
-
-}
 
 * {box-sizing:border-box}
 
