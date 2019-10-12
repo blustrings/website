@@ -48,7 +48,7 @@ Main Components
 }
 
 .cd-section:first-of-type > div {
-  background-color: #b01599;
+  background-color: #000000;
 }
 .cd-section:first-of-type > div::before {
   /* alert -> all scrolling effects are not visible on small devices */
@@ -61,10 +61,10 @@ Main Components
   font-weight: bold;
   font-size: 1.3rem;
   text-transform: uppercase;
-  color: #b01599;
+  color: #000000;
 }
 .cd-section:nth-of-type(2) > div {
-  background-color: #b01599;
+  background-color: #000000;
 }
 
 [data-animation="rotate"] .cd-section > div {
