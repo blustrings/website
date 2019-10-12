@@ -392,6 +392,11 @@ touch-action: none;
   min-width: 90%;
   max-width: 90%;
 }
+.title-image
+{
+  height: 20vh;
+
+}
 
 * {box-sizing:border-box}
 
