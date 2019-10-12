@@ -398,6 +398,13 @@ touch-action: none;
 
 }
 
+.title-image2
+{
+  position: relative;
+  bottom: 70px;
+
+}
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
